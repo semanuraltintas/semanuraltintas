@@ -2,7 +2,7 @@
 # Hi 👋, I'm Sema Nur
 ###  💻  Web Developer from Turkey
 - 🔭 I’m working for be digital nomad
-- 🌱 I’m currently learning **HTML5**, **CSS3**, **JavaScript**, **Node.js*, **React.js**, **Python** etc.
+- 🌱 I’m currently learning **HTML5**, **CSS3**, **JavaScript**, **Node.js**, **React.js**, **Python** etc.
 - 📫 How to reach me : https://www.linkedin.com/in/semanuraltintas/
 
 
