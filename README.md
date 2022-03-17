@@ -1,15 +1,14 @@
-![ 💻  FrontEnd Developer from Turkey](https://images.unsplash.com/photo-1515780010305-0d4bbd149cda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
-# Hi 👋, I'm Sema Nur
-###  💻  Web Developer from Turkey
-- 🔭 I’m working for be digital nomad
-- 🌱 I’m currently learning **HTML5**, **CSS3**, **JavaScript**, **Node.js**, **React.js**, **Python** etc.
-- 📫 How to reach me : https://www.linkedin.com/in/semanuraltintas/
+<h2 align="center">Hi 👋, I'm Sema Nur </h2>
+<h3 align="center">Web Developer from Turkey</h3>
+<br>
+
+<p align="center"> 👩‍💻 I'm interested in Front End and Back End Web Development.
+<br>
+🌱 I’m currently learning JavaScript, React.js, Node.js, PostgreSQL technologies.
+<br>
+ 📫 How to reach me : <a href="https://www.linkedin.com/in/semanuraltintas" target="Linkedin">Linkedin</a>
+</p>
 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/semanuraltintas)  
-
-
-
-![Profile views](https://gpvc.arturio.dev/semanuraltintas)  
+<p align="center"> <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="computer" height='350' /> </p>
+<p align='center'> <img src="https://gpvc.arturio.dev/semanuraltintas" alt="visiting" /> </p>
