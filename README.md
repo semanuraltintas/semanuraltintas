@@ -1,10 +1,11 @@
 <h2 align="center">Hi 👋, I'm Sema Nur </h2>
 <h3 align="center">Web Developer from Turkey</h3>
-<br>
 
-<p align="center"> 👩‍💻 I'm interested in Front End and Back End Web Development.
+<p align="center"> 
 <br>
-🌱 I’m currently learning JavaScript, React.js, Node.js, PostgreSQL technologies.
+   👩‍💻 I’m currently learning JavaScript, CSS, HTML. 🌱
+<br>
+   🌱 I’m Front-End Foxes Bootcamp participator. 🌱
 <br>
  📫 How to reach me : <a href="https://www.linkedin.com/in/semanuraltintas" target="Linkedin">Linkedin</a>
 </p>
