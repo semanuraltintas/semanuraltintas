@@ -3,9 +3,9 @@
 
 <p align="center"> 
 <br>
-   👩‍💻 I’m currently learning JavaScript, CSS, HTML. 🌱
+      🌱🌱🌱
 <br>
-   🌱 I’m Front-End Foxes Bootcamp participator. 🌱
+   👩‍💻 I’m currently learning front-end development roadmap 
 <br>
  📫 How to reach me : <a href="https://www.linkedin.com/in/semanuraltintas" target="Linkedin">Linkedin</a>
 </p>
