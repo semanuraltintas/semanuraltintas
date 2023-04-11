@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Sema Nur </h2>
-<h3 align="center">Front-end Developer from Türkiye</h3>
+<h2 align="center">Hi 👋, I'm Sema </h2>
 
 <p align="center"> 
 <br>
@@ -7,7 +6,6 @@
 <br>
    👩‍💻 I’m currently learning front-end development roadmap 
 <br>
- 📫 How to reach me : <a href="https://www.linkedin.com/in/semanuraltintas" target="Linkedin">Linkedin</a>
 </p>
 
 
